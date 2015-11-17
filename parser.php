@@ -1,6 +1,6 @@
 <?php
 
-include_once '/home/thebender/PhpstormProjects/carparser/simple_html_dom.php';
+include_once 'simple_html_dom.php';
 
 $page = file_get_html('http://auto.ru/cars/audi/all/');
 
